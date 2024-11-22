@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main()
+{
+int n;
+int arr[100],max=-1;
+printf("enter the number of elements):");
+scanf("%d",&arr[i]);
+for(int i=0;i<n;i++)
+{
+ if(max<arr[i]);
+ {
+   max=arr[i];
+ }
+}
+printf("largest no = %d",max);
+return 0;
+
+}
